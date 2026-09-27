@@ -10,7 +10,7 @@ Upload a local audio track, play it directly in the browser and tap along with t
 [![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 
-### [🚀 Live Demo]()
+### [🚀 Live Demo](https://johnyisbackk.github.io/js-bpm-tap-detector-pro/)
 
 </div>
 
@@ -125,9 +125,7 @@ bpm-tap-detector-pro/
 ├── script.js
 ├── LICENSE
 ├── README.md
-│
-└── images/
-    └── preview.png
+├── preview.png
 ```
 
 ---
